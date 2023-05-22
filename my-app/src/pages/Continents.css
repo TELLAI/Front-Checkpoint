@@ -1,0 +1,16 @@
+.continents {
+    width: 75%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.continent {
+    border: lightgray solid;
+    width: 20%;
+    padding: 2em;
+}
+
+a {
+    text-decoration: none;
+}
